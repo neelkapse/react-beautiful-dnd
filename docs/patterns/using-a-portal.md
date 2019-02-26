@@ -24,7 +24,7 @@ If your `Draggable` does not have many children nodes then you are welcome to us
 
 <!-- TODO: embed example here on new website -->
 
-We have created a [working example](https://react-beautiful-dnd.netlify.com/?selectedKind=Portals&selectedStory=Using%20your%20own%20portal&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel) that uses `React.Portal` to guide you. You can view the [source here](https://github.com/atlassian/react-beautiful-dnd/blob/master/stories/11-portal-story.js)
+We have created a [working example](https://react-beautiful-dnd.netlify.com/?selectedKind=Portals&selectedStory=Using%20your%20own%20portal&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybook%2Factions%2Factions-panel) that uses `React.Portal` to guide you. You can view the [source here](https://github.com/atlassian/react-beautiful-dnd/blob/master/stories/11-portal.stories.js)
 
 ## Tables
 
